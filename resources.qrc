@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>assets/images/bg.jpg</file>
+        <file>assets/music/kami.wav</file>
+        <file>assets/images/kaito.png</file>
+        <file>assets/images/miku.png</file>
+        <file>assets/images/rin.png</file>
+        <file>assets/images/len.png</file>
+        <file>assets/notes/kami_easy_full.txt</file>
+        <file>assets/notes/kami_normal_full.txt</file>
+        <file>assets/notes/kami_hard_full.txt</file>
+        <file>assets/notes/kami_extreme_full.txt</file>
+        <file>assets/music/hit.wav</file>
+    </qresource>
+</RCC>
